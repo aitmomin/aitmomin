@@ -1,7 +1,7 @@
 ### Hi there, I'm Abdellah ! 👋
 
 
-## I'm a Software Engineer, Ph.D Student about Modeling Driven Architecture MDA, Modeling Driven Architecture MDE, Modeling, domain-specific language DSL, Programming Languages and Software Engineering in general.
+## I'm a Software Engineer, Ph.D Student about MDA, MDE, Modeling, domain-specific language DSL, Programming Languages and Software Engineering in general.
 
 - 🔭 I'm currently working on [Eclipse Sirius Tool]
 - 🌱 I’m currently learning about DSL and [MPS JetBrains IDE]
@@ -40,14 +40,8 @@
 <br />
 <br />
 
----
+[![Aitmomin's github stats](https://github-readme-stats.vercel.app/api?username=aitmomin)](https://github.com/anuraghazra/github-readme-stats)
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="aitmomin's GitHub Stats" src="https://github-readme-stats.aitmomin.vercel.app/api?username=aitmomin&show_icons=true&hide_border=true" />
-
-</details>
 
 [twitter]: https://twitter.com/ait_momin
 [here]: a.aitmomin@gmail.com
