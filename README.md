@@ -40,7 +40,7 @@
 <br />
 <br />
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aitmomin)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aitmomin&show_icons=true)
 
 
 [twitter]: https://twitter.com/ait_momin
