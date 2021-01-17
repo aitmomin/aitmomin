@@ -1,12 +1,12 @@
 ### Hi there, I'm Abdellah ! 👋
 
 
-## I'm a Software Engineer, Ph.D Student about MDA, MDE, Modeling, domain-specific language DSL, Programming Languages and Software Engineering in general.
+## I'm a Software Engineer, Ph.D Student about MDA, MDE, Modeling, DSLs, Programming Languages and Software Engineering in general.
 
 - 🔭 I'm currently working on [Eclipse Sirius Tool]
 - 🌱 I’m currently learning about DSL and [MPS JetBrains IDE]
 - 🥅 2021 Goals: to advance on my Ph.D and learn as much as possible in software engineering
-- ⚡ Contact me about anything here
+- ⚡ Contact me about anything [here]
 
 
 ### Connect with me:
@@ -25,6 +25,7 @@
 <code><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
 <code><img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /></code>
 <code><img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code>
 <code><img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/angular/angular.png" /></code>
 <code><img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" /></code>
