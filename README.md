@@ -40,12 +40,14 @@
 <br />
 <br />
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aitmomin&show_icons=true)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aitmomin&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aitmomin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aitmomin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [twitter]: https://twitter.com/ait_momin
