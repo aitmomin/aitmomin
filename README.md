@@ -46,7 +46,6 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aitmomin)](https://github.com/anuraghazra/github-readme-stats)
 
-
 [twitter]: https://twitter.com/ait_momin
 [here]: a.aitmomin@gmail.com
 [instagram]: https://www.instagram.com/abdellah_aitmomin/
